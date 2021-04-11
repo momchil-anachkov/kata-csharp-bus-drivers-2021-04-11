@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GossipingBusDrivers", "GossipingBusDrivers\GossipingBusDrivers.csproj", "{A897F0A8-4026-46E0-BE2B-E3E882AC915C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GossipingBusDriversTest", "GossipingBusDriversTest\GossipingBusDriversTest.csproj", "{CBB7869E-3FFD-4283-B8E4-78B0CDA860C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A897F0A8-4026-46E0-BE2B-E3E882AC915C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A897F0A8-4026-46E0-BE2B-E3E882AC915C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A897F0A8-4026-46E0-BE2B-E3E882AC915C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A897F0A8-4026-46E0-BE2B-E3E882AC915C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB7869E-3FFD-4283-B8E4-78B0CDA860C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB7869E-3FFD-4283-B8E4-78B0CDA860C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB7869E-3FFD-4283-B8E4-78B0CDA860C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB7869E-3FFD-4283-B8E4-78B0CDA860C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
